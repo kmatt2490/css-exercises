@@ -1,0 +1,11 @@
+.clickMe{
+    background-color: black;
+    color: white;
+}
+.noClickMe{
+    background-color: yellow;
+}
+.clickMe, .noClickMe{
+    font-size: 28px;
+    font-style: helvetica,"Times New Roman",sans-serif;
+}
